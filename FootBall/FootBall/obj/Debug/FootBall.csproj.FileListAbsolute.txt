@@ -1,0 +1,7 @@
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\bin\Debug\FootBall.exe.config
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\bin\Debug\FootBall.exe
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\bin\Debug\FootBall.pdb
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\obj\Debug\FootBall.csprojAssemblyReference.cache
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\obj\Debug\FootBall.csproj.CoreCompileInputs.cache
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\obj\Debug\FootBall.exe
+C:\Users\pramadwara.naga\source\repos\FootBall\FootBall\obj\Debug\FootBall.pdb
